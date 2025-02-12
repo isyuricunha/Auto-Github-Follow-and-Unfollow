@@ -36,4 +36,4 @@ Have a second version and you can see [here](https://github.com/isyuricunha/gith
 
 This extension/script works on any browser based on Chromium and Mozilla Firefox.
 
-Chromium based like a Google Chrome, Microsoft Edge, Brave.
+Chromium based like a Google Chrome, Microsoft Edge, Brave, Opera and a lot more.
