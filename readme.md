@@ -5,6 +5,8 @@
 
 ### <h1 align="center"> About 📄 </h1>
 
+Sill working on 2025. Have fun.
+
 Script to follow or unfollow users from the current GitHub page.<br>
 
 ### <h1 align="center"> Information ℹ </h1>
