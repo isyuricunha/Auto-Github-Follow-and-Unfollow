@@ -9,7 +9,7 @@ Script para seguir ou deixar de seguir usuários da página atual do GitHub.<br>
 
 ### <h1 align="center"> Informação ℹ </h1>
 
-Vazio.<br>
+Continua funcionando em 2025. Boa.
 
 ### <h1 align="center"> Como usar 👨‍💻 </h1>
 
