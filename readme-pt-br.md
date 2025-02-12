@@ -34,4 +34,4 @@ Continua funcionando em 2025. Boa.
 
 Essa extensão funciona em qualquer navegador baseado no Chromium e Mozilla Firefox.
 
-Navegadores baseados em Chromium, como Google Chrome, Microsoft Edge, Brave.
+Navegadores baseados em Chromium, como Google Chrome, Microsoft Edge, Brave, Opera e muito mais.
